@@ -2,8 +2,8 @@ import streamlit as st
 from jamaibase import JamAI, protocol as p
 
 # Set your API Key and Project ID directly in the script
-API_KEY = "YOUR API KEY HERE"
-PROJECT_ID = "YOUR PROJECT ID HERE"
+API_KEY = jamai_sk_71396e68d6c968188ad2e120cbf0990ddcca468e7e532b2b
+PROJECT_ID = proj_66d69edb2160ca91d81d88cd
 TABLE_ID = "user_input"
 
 # Initialize JamAI client
